@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# WP-CLI Back up Script to Amazon S3
-# Source: https://guides.wp-bullet.com
-# Author Simone Cilliers
+# Description: WP-CLI Back up Script to Amazon S3
+# Inspiration/Source: https://guides.wp-bullet.com
+# Author: Simone Cilliers
 
 # Define local path for backups
 BACKUPPATH=add_your_back_up_path_here
